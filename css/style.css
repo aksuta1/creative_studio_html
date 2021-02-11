@@ -1,0 +1,220 @@
+html,body{
+  height: 100%;
+}
+#body{
+background: #fff;
+font-size: 16px;
+font-weight: 400;
+min-width: 320px; 
+}
+section{
+  position: relative;
+}
+.card-img{
+  max-width: 100%;
+  height: auto;
+}
+.nav{
+  color:#fff;
+}
+.nav-link{
+  color:#fff;
+  font-weight: 300;
+}
+.fab{
+  color:#fff;
+   margin:10px;
+   padding-top: 5px;
+}
+.title{
+margin-top: 150px;
+}
+.title h1{
+  font-size: 105px;
+  text-transform: uppercase;
+  color:#fff;
+}
+.title h6{
+  font-size: 20px;
+  color:#337ab7;
+font-weight: 350;
+line-height: 5px;
+letter-spacing: 10px;
+text-transform: uppercase;
+}
+.scroll{
+  color:#fff;
+  text-align: center;
+  margin-top: 190px;
+}
+.row{
+  color:#fff;
+}
+#about{
+  padding: 90px 0;
+  background: #428ab9;
+  color:#fff;
+}
+.col-md-6{
+   background: rgba(104, 99, 99, 0.158)
+}
+.card-body{
+  padding-top: 50px;
+  padding-left: 80px;
+  padding-right: 130px;
+font-weight: 20px;
+color:#000;
+}
+.card-title{
+  text-transform: uppercase;
+  font-size: 25px;
+}
+.card-text {
+  padding-top: 20px;
+}
+.container{
+  text-transform: uppercase;
+}
+.row-item-col-1{
+  background:rgba(0, 0, 0, 0.88);
+}
+.row-item-col-1 .card-body{
+  color:#fff;
+}
+
+.mb-3, .my-3 {
+    margin-bottom: 0!important;
+}
+#blog{
+  background:#fff;
+  padding-bottom: 100px;
+}
+.card{
+  border:0;
+}
+.card-body-blog{
+   padding: 15px;
+   color: #000;
+}
+.card-text-blog{
+text-transform: none;
+}
+.card-title-blog{
+font-size: 20;
+color:#428ab9;
+margin-top: 15px;
+margin-bottom: 20px;
+}
+.about{
+  margin: 100px;
+}
+.text-blog{
+  margin: 0 0 50px;
+  text-transform: none;
+  font-size: 30px; 
+}
+#colum{
+  background:#428ab9;
+padding:80px;
+color:#fff;
+}
+.link{
+font-size:55px;
+color:#fff;
+}
+.colum-text{
+  text-transform: none;;
+}
+#telefon{
+padding: 80px;
+background:rgb(39, 37, 37);
+color:#fff;
+}
+.phone{
+padding-left: 150px;
+padding-top: 20px;
+
+}
+.btn{
+  margin-bottom:20px;
+  border-radius:none;
+}
+.btn-primary{
+  background:#428ab9;
+  color: #fff;
+margin-top: 10px;
+text-align: left;
+text-transform: uppercase;
+
+}
+.telefon-block{
+  padding: 80px;
+}
+.tel-title{
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+.tel-text{
+  text-transform: none!important;
+  padding-bottom: 35px;
+}
+.team-title{
+  padding: 80px;
+}  
+.text-team{
+  padding-bottom:25px;
+  text-transform:none!important;
+  font-size: 20px;
+}
+.team{
+padding-bottom: 40px;
+}
+#contacts{
+  background:rgb(39, 37, 37);
+}
+.contact-title{
+  color:#fff;
+  padding: 100px;
+}
+.form-group{
+  width: 100%;
+  margin-top: 15px;
+  
+}
+.form-control{
+  background:rgb(39, 37, 37);
+}
+.btn-info{
+  background:#428ab9;
+text-transform: uppercase;
+width:10%;
+margin-left: 500px;
+margin-top: 15px;
+margin-bottom: 100px;
+}
+#copy{
+  background:rgb(39, 37, 37);
+color:#fff;
+font-size: 15px;
+}
+
+
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+}
+
+/* Small Devices, Tablets */
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+}
